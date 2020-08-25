@@ -4,10 +4,10 @@ from textblob import TextBlob
 
 # Fill the X's with the credentials obtained by
 # following the above mentioned procedure.
-consumer_key = "eavbmnjVfpygtk8GBdESW1cAy"
-consumer_secret = "USeEYA7GPveCxavPIsrKfJEHiGBtvWPdPaQoIAEdGZRGjo2RwP"
-access_key = "1265454816458924034-hRbyAnspNyleG0MXu0hqRs38BpSlU8"
-access_secret =  "2GvESG7FnI79aVoAFTKvNRpjj0PFhpZg4v07D72RChe7H"
+consumer_key = " "
+consumer_secret = " "
+access_key = " "
+access_secret =  " "
 
 # Function to extract tweets
 def get_tweets(username):
